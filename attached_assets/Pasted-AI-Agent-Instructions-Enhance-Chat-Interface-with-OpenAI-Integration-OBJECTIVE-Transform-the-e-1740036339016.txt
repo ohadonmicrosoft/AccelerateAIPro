@@ -1,0 +1,78 @@
+AI Agent Instructions: Enhance Chat Interface with OpenAI Integration
+
+OBJECTIVE:
+Transform the existing chat interface into an AI-powered enterprise communication hub with OpenAI integration and advanced features.
+
+CORE ENHANCEMENTS:
+
+1. OpenAI Integration:
+- Implement GPT-4 streaming responses
+- Enable context-aware conversations
+- Add code highlighting and formatting
+- Implement typing indicators during AI responses
+
+2. UI/UX Improvements:
+- Add smooth message transitions (360ms)
+- Implement message grouping by timestamp
+- Add code block copying functionality
+- Enable markdown rendering
+- Add syntax highlighting for code snippets
+- Implement progressive loading animations
+
+3. Advanced Features:
+- Message search functionality
+- Code explanation mode
+- Conversation history with infinite scroll
+- Export chat functionality
+- Code snippet generation
+- Context switching between different chat modes
+- File attachment support
+- Voice input option
+- Multi-language support
+- Code execution playground
+
+4. Visual Enhancements:
+- Message bubbles with subtle shadows
+- Typing indicators with smooth animations
+- Avatar transitions
+- Rich formatting toolbar
+- Code block themes
+- Inline image previews
+- Syntax highlighting themes
+- Response quality indicators
+- AI confidence meters
+
+5. Interaction Improvements:
+- Keyboard shortcuts
+- Context menu actions
+- Message reactions
+- Thread support
+- Quick response suggestions
+- Command palette (/commands)
+- Drag-and-drop attachments
+- Message editing
+- Real-time character count
+- Mobile-optimized interactions
+
+TIMING SPECIFICATIONS:
+- Primary animations: 360ms
+- Secondary transitions: 300ms
+- Micro-interactions: 200ms
+- Loading states: 400ms
+
+MOTION PROPERTIES:
+- Use cubic-bezier(0.4, 0.0, 0.2, 1)
+- Implement scale transitions (0.98 - 1.02)
+- Apply smooth opacity changes (0.6 - 1)
+- Add subtle translations (2px - 4px)
+
+Before proceeding with implementation:
+1. Add OpenAI environment variables
+2. Install required dependencies
+3. Implement all enhancements systematically
+4. Maintain performance optimization
+5. Ensure mobile responsiveness
+6. Apply consistent motion design
+7. Test all features thoroughly
+
+Please implement these enhancements while maintaining the existing chat functionality and ensuring seamless integration with the current codebase.
